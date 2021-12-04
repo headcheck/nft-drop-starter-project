@@ -1,6 +1,18 @@
+.header {
+  color: pink;
+}
+
+.drop-it {
+  color: lightcoral
+}
+
 .machine-container {
   display: flex;
   flex-direction: column;
+}
+
+.mint-button {
+  color: lightpink
 }
 
 .gif-container {
@@ -29,5 +41,6 @@
   width: 100%;
   height: 200px;
   border-radius: 10px;
+  border-color: pink;
   object-fit: cover;
 }

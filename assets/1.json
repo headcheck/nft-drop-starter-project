@@ -1,0 +1,19 @@
+{
+    "name": "Cyber Pharmacist",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GDX3V3HRM3rm3txDAYy2raeUXspDAr6YNXprsJSQ6Qpz",
+          "share": 100
+        }
+      ]
+    }
+  }

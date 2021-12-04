@@ -1,0 +1,19 @@
+{
+    "name": "Coolest Cat",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GDX3V3HRM3rm3txDAYy2raeUXspDAr6YNXprsJSQ6Qpz",
+          "share": 100
+        }
+      ]
+    }
+  }
